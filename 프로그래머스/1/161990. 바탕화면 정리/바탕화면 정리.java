@@ -6,9 +6,9 @@ class Solution {
         int rdx = Integer.MIN_VALUE;
         int rdy = Integer.MIN_VALUE;
         
-        for (int i =0; i < wallpaper.length; i++) {
+        for (int i = 0; i < wallpaper.length; i++) {
             String row = wallpaper[i];
-            for (int j=0; j < row.length(); j++) {
+            for (int j = 0; j < row.length(); j++) {
                 if (row.charAt(j) == '#') {
                     if (i < lux) lux = i;
                     if (j < luy) luy = j;
