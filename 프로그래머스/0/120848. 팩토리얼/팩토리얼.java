@@ -3,7 +3,7 @@ class Solution {
         int answer = 1;
         int i = 1;
 
-        while (answer <=n) {
+        while (answer <= n) {
             i++;
             answer *= i;
         }
