@@ -4,7 +4,7 @@ class Solution {
         
          String orderStr = String.valueOf(order);
         
-        for(int i=0; i<orderStr.length(); i++){
+        for(int i = 0; i < orderStr.length(); i++){
             char ch = orderStr.charAt(i);
             
             if (ch == '3' || ch == '6' || ch == '9'){
