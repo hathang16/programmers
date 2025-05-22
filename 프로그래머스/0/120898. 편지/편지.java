@@ -3,8 +3,8 @@ class Solution {
         int answer = 0;
         String[] str = message.split("");
         
-        for(int i=1; i<=str.length; i++){
-            answer = (i*2);
+        for(int i = 1; i <= str.length; i++){
+            answer = (i * 2);
         }     
         
         return answer;
