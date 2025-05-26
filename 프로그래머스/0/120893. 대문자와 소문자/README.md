@@ -1,10 +1,10 @@
 # [level 0] 대문자와 소문자 - 120893 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120893) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120893?language=python3) 
 
 ### 성능 요약
 
-메모리: 80.1 MB, 시간: 17.77 ms
+메모리: 9.1 MB, 시간: 0.29 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 28일 21:47:18
+2025년 05월 26일 22:29:54
 
 ### 문제 설명
 
