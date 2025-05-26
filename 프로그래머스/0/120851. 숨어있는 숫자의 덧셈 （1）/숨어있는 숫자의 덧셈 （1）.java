@@ -6,7 +6,7 @@ class Solution {
         String[] arr = my_string.split("");
         int answer = 0;
 
-        for (int i=0; i<arr.length; i++) {
+        for (int i = 0; i < arr.length; i++) {
             answer += Integer.parseInt(arr[i]);
         }
 
