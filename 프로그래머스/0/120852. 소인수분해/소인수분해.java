@@ -5,12 +5,12 @@ class Solution {
         
         List<Integer> answer = new ArrayList<>();
         
-        for (int i=2; i<= n; i++){
+        for (int i = 2; i <= n; i++){
             while (n % i == 0){
                 if (!answer.contains(i)){
                     answer.add(i);
                 }
-                n = n/i;
+                n = n / i;
             }
         }
         return answer;
