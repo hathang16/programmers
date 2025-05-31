@@ -7,9 +7,9 @@ class Solution {
         
         Arrays.sort(str);
         
-        for (int i=0; i<str.length; i++){
+        for (int i = 0; i < str.length; i++){
             int c=0;
-            for (int j=0; j<str.length; j++){
+            for (int j = 0; j < str.length; j++){
                 if(str[i].equals(str[j])){
                     c ++;
                 }
