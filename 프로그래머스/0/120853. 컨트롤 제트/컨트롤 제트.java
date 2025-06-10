@@ -5,7 +5,7 @@ class Solution {
         String[] list = s.split(" ");
         int answer = 0;
         
-        for(int i=0; i<list.length; i++){
+        for(int i = 0; i < list.length; i++){
             if (list[i].equals("Z")){
                 answer -= Integer.parseInt(list[i-1]);
             } else {
