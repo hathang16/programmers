@@ -1,10 +1,10 @@
 # [level 0] 배열의 유사도 - 120903 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120903) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=python3) 
 
 ### 성능 요약
 
-메모리: 77.8 MB, 시간: 0.26 ms
+메모리: 9.05 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 30일 23:34:35
+2025년 07월 01일 23:37:49
 
 ### 문제 설명
 
