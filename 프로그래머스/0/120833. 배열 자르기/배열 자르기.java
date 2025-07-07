@@ -3,7 +3,7 @@ class Solution {
         int index = 0;
         int[] answer = new int[num2-num1+1];
         
-        for(int i=num1; i <= num2; i++){
+        for(int i = num1; i <= num2; i++){
             answer[index] = numbers[i];
             index++;
         }      
