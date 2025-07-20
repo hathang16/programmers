@@ -1,10 +1,10 @@
 # [level 0] 겹치는 선분의 길이 - 120876 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120876) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120876?language=python3) 
 
 ### 성능 요약
 
-메모리: 89.1 MB, 시간: 0.04 ms
+메모리: 9.32 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 11월 03일 19:05:09
+2025년 07월 20일 20:54:00
 
 ### 문제 설명
 
