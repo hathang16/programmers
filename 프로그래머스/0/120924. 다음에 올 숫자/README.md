@@ -1,10 +1,10 @@
 # [level 0] 다음에 올 숫자 - 120924 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120924) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120924?language=python3) 
 
 ### 성능 요약
 
-메모리: 83 MB, 시간: 0.03 ms
+메모리: 9.27 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 07월 25일 20:42:55
+2025년 07월 31일 21:58:06
 
 ### 문제 설명
 
