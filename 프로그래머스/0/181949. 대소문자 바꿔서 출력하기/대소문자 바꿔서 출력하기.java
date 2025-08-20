@@ -10,7 +10,7 @@ public class Solution {
             char c = a.charAt(i);
             if(Character.isUpperCase(c)){
                 answer += Character.toLowerCase(c);
-            }else{
+            } else{
                 answer += Character.toUpperCase(c);
             }
         }
